@@ -4,7 +4,7 @@ import Home from './project/Home'
 import UsersList from './project/UsersList'
 import PostsList from './project/PostsList'
 import UserShow from './project/UserShow'
-//import PostShow from './project/PostShow'
+import PostShow from './project/PostShow'
 
 function App () {
     return (
