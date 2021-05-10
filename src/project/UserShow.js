@@ -5,7 +5,7 @@ import {Link} from 'react-router-dom'
 class UserShow extends React.Component {
     constructor (){
         super()
-        this.state = {
+        this.state = {//
             user:{},
             posts:[]
             

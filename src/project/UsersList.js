@@ -6,7 +6,7 @@ import {Link} from 'react-router-dom'
 class UsersList extends React.Component {
     constructor() {
         
-        super()
+        super()//
         this.state = {
             users: []
         }
