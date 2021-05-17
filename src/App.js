@@ -6,7 +6,7 @@ import PostsList from './project/PostsList'
 import UserShow from './project/UserShow'
 import PostShow from './project/PostShow'
 
-function App () {//
+function App () {
     return (
         <BrowserRouter>
         <div>

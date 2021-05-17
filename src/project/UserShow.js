@@ -3,7 +3,7 @@ import axios from 'axios'
 import {Link} from 'react-router-dom'
 
 class UserShow extends React.Component {
-    constructor (){//
+    constructor (){
         super()
         this.state = {
             user:{},

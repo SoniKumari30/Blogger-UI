@@ -6,7 +6,7 @@ class PostShow extends React.Component {
     constructor (){
         super()
         this.state = {
-            post:{},//
+            post:{},
             user:{},
             comments:[]
         }
