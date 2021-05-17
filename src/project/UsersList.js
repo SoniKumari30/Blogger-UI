@@ -8,7 +8,7 @@ class UsersList extends React.Component {
         
         super()
         this.state = {
-            users: []
+            users: []//
         }
     }
 
